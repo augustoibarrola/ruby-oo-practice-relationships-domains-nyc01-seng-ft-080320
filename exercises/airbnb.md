@@ -21,8 +21,8 @@ Create the necessary methods to connect these classes.
   - returns an array of all trips at a listing
 - #trip_count
   - returns the number of trips that have been taken to that listing
-- .all
-  - returns an array of all listings
+<!-- - .all
+  - returns an array of all listings -->
 - .find_all_by_city(city)
   - takes an argument of a city name (as a string) and returns all the listings for that city
 - .most_popular
